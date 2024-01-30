@@ -1,1 +1,3 @@
 # genriquez
+
+👋 Hello GitHub Community!
