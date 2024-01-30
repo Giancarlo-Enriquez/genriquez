@@ -16,7 +16,7 @@ Projects: You'll find a collection of my coding projects that delve into the app
 Collaborations: I'm actively seeking collaborations with fellow students, researchers, and developers who share an interest in the fusion of machine learning and finance. If you have exciting projects or ideas, let's connect and explore together!
 
 📫 Let's Connect
-LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/giancarloenriquez/)
+LinkedIn: [[Giancarlo Enriquez]](https://www.linkedin.com/in/giancarloenriquez/)
 
 Email: giancarlo.enriquez1618@gmail.com
 
