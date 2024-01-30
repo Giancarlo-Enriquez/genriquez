@@ -24,6 +24,3 @@ Email: giancarlo.enriquez1618@gmail.com
 GitHub, for me, is not just a platform for version control; it's a dynamic space for continuous learning and collaboration. I look forward to connecting with like-minded individuals who are passionate about the transformative potential of machine learning in the financial domain.
 
 Feel free to explore my repositories, provide feedback, or just say hi! Let's embark on this journey of applying cutting-edge technology to reshape the landscape of financial engineering. 🚀
-
-Best regards,
-Giancarlo Enriquez
