@@ -1,4 +1,4 @@
-# genriquez
+# Giancarlo Enriquez
 
 👋 Hello GitHub Community!
 
