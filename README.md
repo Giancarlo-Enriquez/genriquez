@@ -5,6 +5,7 @@
 I'm Giancarlo Enriquez, a first-year graduate student pursuing a degree in Mathematical Sciences with a keen interest in the intersection of machine learning and financial engineering at New York University (NYU). 📚 I'm passionate about leveraging advanced computational techniques to unravel complex financial dynamics, and GitHub is where I showcase my coding endeavors and collaborative projects.
 
 🌐 About Me
+
 🎓 Academic Background: Currently, I am immersing myself in the fascinating world of mathematical theory, with a specific focus on applying machine learning in the realm of financial engineering.
 
 🧮 Research Interests: My primary research interests lie in the application of machine learning algorithms to financial modeling, risk management, and investment strategies.
