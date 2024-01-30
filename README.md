@@ -17,7 +17,7 @@ Collaborations: I'm actively seeking collaborations with fellow students, resear
 📫 Let's Connect
 LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/giancarloenriquez/)
 
-Email: [[Your Email Address]](giancarlo.enriquez1618@gmail.com) 
+Email: giancarlo.enriquez1618@gmail.com
 
 🌱 Learning and Growing
 GitHub, for me, is not just a platform for version control; it's a dynamic space for continuous learning and collaboration. I look forward to connecting with like-minded individuals who are passionate about the transformative potential of machine learning in the financial domain.
